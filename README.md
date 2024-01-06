@@ -3,7 +3,7 @@
 This repository contains code and notebooks for a project focused on cryptocurrency price prediction. The project aims to explore and compare different machine learning approaches, including graph neural networks (GNNs) and Long Short-Term Memory (LSTM) models, to forecast cryptocurrency prices accurately.
 
 <div align="center">
-  <img src="https://github.com/nikgeokar/tgcn_lstm_for_crypto_forecasting/files/11642661/DynamicGraph.pdf" alt="1" width="500"/>
+  <img src="https://github.com/muhammad-subhan-15/TGCN-LSTM-Crypto-Forecasting/blob/main/DynamicGraph.pdf" alt="1" width="500"/>
 </div>
 
 ## Acknowledgments
