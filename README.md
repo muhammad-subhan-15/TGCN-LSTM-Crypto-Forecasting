@@ -61,10 +61,4 @@ The project is divided into several notebooks, each serving a specific purpose:
 <b>Backtesting.ipynb:</b> This notebook focuses on implementing a backtesting technique, which involves applying the trained models to real-life scenarios. The notebook explores how well the models perform in practical situations and evaluates their effectiveness.
 Prerequisites
 
-## Usage
-To get started with the project, follow these steps:
-
-Clone this repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Run the notebooks in the specified order to preprocess the data, train different models, compare algorithms, and perform backtesting.
-Feel free to explore the code, experiment with different approaches, and modify the notebooks to suit your needs.
+different approaches, and modify the notebooks to suit your needs.
